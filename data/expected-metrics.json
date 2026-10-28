@@ -1,0 +1,11 @@
+{
+  "total": 72,
+  "open": 46,
+  "resolved": 26,
+  "overdue": 29,
+  "atRisk": 2,
+  "onTime": 16,
+  "onTimeRate": 0.6153846153846154,
+  "medianHours": 68.5,
+  "reopened": 2
+}
