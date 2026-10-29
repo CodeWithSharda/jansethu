@@ -6,6 +6,8 @@ A service request should have an owner, a clear deadline, and a credible explana
 
 **Status:** functional browser-local prototype, synthetic dataset, no live users or field impact claimed. Built with AI assistance; product decisions and implementation should be reviewed and understood before presentation.
 
+**[Open the live demo](https://codewithsharda.github.io/jansethu/)** · [View passing acceptance tests](https://github.com/CodeWithSharda/jansethu/actions/workflows/ci.yml)
+
 ## A 90-second review
 
 1. Open **Overview** for service health and overdue work.
